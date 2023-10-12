@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: java-app
-          image: madhu1607/capstonejava:latest  
+          image: madhu1607/basic:latest  
           ports:
             - containerPort: 8080
